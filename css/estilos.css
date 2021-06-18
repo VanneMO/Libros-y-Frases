@@ -1,6 +1,5 @@
-*{
+{
 	margin:0px;
-	padding:0px;
 	box-sizing: border-box;
 }
 body{
@@ -83,7 +82,7 @@ a{
 				line-height: 1.6;
 			}
 	.section{
-		background: #F7F7F7;
+		background: #581845;
 		display: flex;
 	}
 		.articulos{
